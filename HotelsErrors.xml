@@ -20,7 +20,7 @@
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85260</Zip>
-			<NearestAirport>Scottsdale Airport</NearestAirport>
+			<NearstAirport>Scottsdale Airport</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel>
@@ -32,7 +32,7 @@
 			<City>Los Angeles</City>
 			<State>CA</State>
 			<Zip>90045</Zip>
-			<NearestAirport>Los Angeles International Airport</NearestAirport>
+			<NearstAirport>Los Angeles International Airport</NearstAirport>
 
 		<Rating>4.0</Rating>
 	</Hotel>
@@ -47,7 +47,7 @@
 			<City>Orlando</City>
 			<State>FL</State>
 			<Zip>32827</Zip>
-			<NearestAirport>Orlando International Airport</NearestAirport>
+			<NearstAirport>Orlando International Airport</NearstAirport>
 		</Address>
 		<Rating>4.5</Rating>
 	</Hotel>
@@ -62,7 +62,7 @@
 			<City>Dallas</City>
 			<State>TX</State>
 			<Zip>75261</Zip>
-			<NearestAirport>Dallas/Fort Worth International Airport</NearestAirport>
+			<NearstAirport>Dallas/Fort Worth International Airport</NearstAirport>
 		</Address>
 	</Hotel>
 
@@ -75,7 +75,7 @@
 			<City>Detroit</City>
 			<State>MI</State>
 			<Zip>48242</Zip>
-			<NearestAirport>Detroit Metropolitan Wayne County Airport</NearestAirport>
+			<NearstAirport>Detroit Metropolitan Wayne County Airport</NearstAirport>
 		</Address>
 		<Rating>4.6</Rating>
 	</Hotel>
@@ -89,7 +89,7 @@
 			<City>Richmond</City>
 			<State>BC</State>
 			<Zip>V7B 0A6</Zip>
-			<NearestAirport>Vancouver International Airport</NearestAirport>
+			<NearstAirport>Vancouver International Airport</NearstAirport>
 		</Address>
 		<Rating>4.8</Rating>
 	</Hotel>
@@ -102,7 +102,7 @@
 			<City>Chake Chake</City>
 			<State>Zanzibar</State>
 			<Zip>11101</Zip>
-			<NearestAirport>Pemba Airport</NearestAirport>
+			<NearstAirport>Pemba Airport</NearstAirport>
 		</Address>
 		<Rating>4.8</Rating>
 	</Hotel>
@@ -116,7 +116,7 @@
 			<City>Levi</City>
 			<State>Lapland</State>
 			<Zip>99130</Zip>
-			<NearestAirport>Kittila Airport</NearestAirport>
+			<NearstAirport>Kittila Airport</NearstAirport>
 		</Address>
 	</Hotel>
 
@@ -129,7 +129,7 @@
 			<City>Chiang Saen</City>
 			<State>Chiang Rai</State>
 			<Zip>57150</Zip>
-			<NearestAirport>Chiang Rai International Airport</NearestAirport>
+			<NearstAirport>Chiang Rai International Airport</NearstAirport>
 		</Address>
 		<Rating>4.9</Rating>
 	</Hotel>
