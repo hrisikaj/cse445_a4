@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<Hotel>
+		<Name>Surestay Hotel by Best Western</Name>
+		<Phone>602-273-1601</Phone>
+		<Phone></Phone>
+		<Address>
+			<Number>3037</Number>
+			<Street>E Van Buren St.</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85008</Zip>
+			<NearestAirport>Phoenix Sky Harbor International</NearestAirport>
+		</Address>
+		<Rating>3.7</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Broadmoor</Name>
+		<Phone>855-634-7711</Phone>
+		<Address>
+			<Number>456</Number>
+			<Street>Sunset Blvd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85260</Zip>
+			<NearestAirport>Scottsdale Airport</NearestAirport>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Hilton Los Angeles</Name>
+		<Phone>+1-310-410-4000</Phone>
+		<Address>
+			<Number>5711</Number>
+			<Street>W Century Blvd</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90045</Zip>
+			<NearestAirport>Los Angeles International Airport</NearestAirport>
+		</Address>
+		<Rating>4.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hyatt Regency Orlando International</Name>
+		<Phone>+1-407-825-1234</Phone>
+		<Address>
+			<Number>9300</Number>
+			<Street>Jeff Fuqua Blvd</Street>
+			<City>Orlando</City>
+			<State>FL</State>
+			<Zip>32827</Zip>
+			<NearestAirport>Orlando International Airport</NearestAirport>
+		</Address>
+		<Rating>4.5</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Grand Hyatt DFW</Name>
+		<Phone>+1-972-973-1234</Phone>
+		<Phone>+1-817-251-3069</Phone>
+		<Address>
+			<Number>2337</Number>
+			<Street>S International Pkwy</Street>
+			<City>Dallas</City>
+			<State>TX</State>
+			<Zip>75261</Zip>
+			<NearestAirport>Dallas/Fort Worth International Airport</NearestAirport>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Westin Detroit Metropolitan</Name>
+		<Phone>+1-734-942-6500</Phone>
+		<Address>
+			<Number>2501</Number>
+			<Street>Worldgateway Pl</Street>
+			<City>Detroit</City>
+			<State>MI</State>
+			<Zip>48242</Zip>
+			<NearestAirport>Detroit Metropolitan Wayne County Airport</NearestAirport>
+		</Address>
+		<Rating>4.6</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Fairmont Vancouver</Name>
+		<Phone>+1-604-207-5200</Phone>
+		<Address>
+			<Number>3111</Number>
+			<Street>Grant McConachie Way</Street>
+			<City>Richmond</City>
+			<State>BC</State>
+			<Zip>V7B 0A6</Zip>
+			<NearestAirport>Vancouver International Airport</NearestAirport>
+		</Address>
+		<Rating>4.8</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>The Manta Resort</Name>
+		<Phone>+25 57778 00800</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Pemba Island</Street>
+			<City>Chake Chake</City>
+			<State>Zanzibar</State>
+			<Zip>11101</Zip>
+			<NearestAirport>Pemba Airport</NearestAirport>
+		</Address>
+		<Rating>4.8</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Golden Crown Levin Iglut</Name>
+		<Phone>+35 81663 93300</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Harjatie</Street>
+			<City>Levi</City>
+			<Zip>99130</Zip>
+			<NearestAirport>Kittila Airport</NearestAirport>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Anantara Golden Triangle Elephant Camp and Resort</Name>
+		<Phone>+66-53-784-084</Phone>
+		<Address>
+			<Number>229</Number>
+			<Street>Tambon Wiang</Street>
+			<City>Chiang Saen</City>
+			<State>Chiang Rai</State>
+			<Zip>57150</Zip>
+			<NearestAirport>Chiang Rai International Airport</NearestAirport>
+		</Address>
+		<Rating>4.9</Rating>
+	</Hotel>
+</Hotels>
